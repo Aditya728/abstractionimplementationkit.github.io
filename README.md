@@ -13,4 +13,4 @@ The main program (Abstraction Implementation Kit.exe) consists of 5 different tu
 
 4. Linear Queue: It consists of five tutorial tabs for creating a linear queue, adding element in a linear queue, removing element from linear queue, fetching elements in linear queue, and the program code and their execution.
 
-5. Linked List: It consists of five tutorial tabs for creating a linked list, adding element in a linked list, removing element from linked listlinear queue, fetching elements in linked list, and the program code and their execution.
+5. Linked List: It consists of five tutorial tabs for creating a linked list, adding element in a linked list, removing element from linked list, fetching elements in linked list, and the program code and their execution.
