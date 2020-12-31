@@ -5,12 +5,12 @@ In this repository, I have shared both the source and executable file. If you ha
 
 The main program (Abstraction Implementation Kit.exe) consists of 5 different tutorial kits:
 
-1. Abstraction Information: It consists of two tabs which give idea about abstraction and how is it implemented using Object Oriented Programming.
+1. Abstraction Information: It consists of two tutorial tabs which give idea about abstraction and how is it implemented using Object Oriented Programming.
 
-2. Stack: It consists of tutorial for creating a stack, adding element in a stack, removing element from stack, fetching elements in stack, and the program code and their execution.
+2. Stack: It consists of five tutorial tabs for creating a stack, adding element in a stack, removing element from stack, fetching elements in stack, and the program code and their execution.
 
-3. Circular Queue: It consists of tutorial for creating a circular queue, adding element in a circular queue, removing element from circular queue, fetching elements in circular queue, and the program code and their execution.
+3. Circular Queue: It consists of five tutorial tabs for creating a circular queue, adding element in a circular queue, removing element from circular queue, fetching elements in circular queue, and the program code and their execution.
 
-4. Linear Queue: It consists of tutorial for creating a linear queue, adding element in a linear queue, removing element from linear queue, fetching elements in linear queue, and the program code and their execution.
+4. Linear Queue: It consists of five tutorial tabs for creating a linear queue, adding element in a linear queue, removing element from linear queue, fetching elements in linear queue, and the program code and their execution.
 
-5. Linked List: It consists of tutorial for creating a linked list, adding element in a linked list, removing element from linked listlinear queue, fetching elements in linked list, and the program code and their execution.
+5. Linked List: It consists of five tutorial tabs for creating a linked list, adding element in a linked list, removing element from linked listlinear queue, fetching elements in linked list, and the program code and their execution.
